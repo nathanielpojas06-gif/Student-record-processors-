@@ -1,0 +1,19 @@
+{
+  "generatedOn": "2026-09-18",
+  "totalStudents": 31,
+  "enrolled": 25,
+  "notEnrolled": 6,
+  "overallAverage": 87.48,
+  "topStudent": {
+    "id": 15,
+    "name": "Lucia Navarro",
+    "course": "BS Information Technology",
+    "averageGrade": 97.5
+  },
+  "courseAveragesRanked": [
+    {"course": "BS Information Technology", "averageGrade": 89.62},
+    {"course": "BS Computer Science", "averageGrade": 87.14},
+    {"course": "BS Business Administration", "averageGrade": 85.68}
+  ],
+  "note": "Run app.js in online JavaScript editor to see full console report"
+}
